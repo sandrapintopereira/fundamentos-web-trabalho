@@ -71,4 +71,9 @@ article {
     margin-top: 40px;
     color: #666
 }
+
+.skills-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    gap: 15px;
 }
