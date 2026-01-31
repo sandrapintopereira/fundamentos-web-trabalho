@@ -9,3 +9,13 @@ body {
     background-color: #013220;
     color: #ffffff;
 }
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 40px;
+}
