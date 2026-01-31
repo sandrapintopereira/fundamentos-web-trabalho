@@ -49,3 +49,16 @@ article {
     margin-bottom: 6px;
 }
 
+.role {
+    font-weight: bold;
+}
+
+.degree {
+    font-weight: bold;
+}
+
+.years {
+    font-size: 0.9rem;
+    color: #96c5a8;
+}
+
