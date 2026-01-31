@@ -65,3 +65,10 @@ article {
 .description {
     line-height: 1.5;
 }
+
+.footer {
+    text-align: center;
+    margin-top: 40px;
+    color: #666
+}
+}
