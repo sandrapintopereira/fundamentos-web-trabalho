@@ -38,3 +38,14 @@ body {
     padding: 5px;
 }
 
+article {
+    margin-bottom: 35px;
+}
+
+.item-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 6px;
+}
+
